@@ -1,0 +1,13 @@
+name: C:\Users\anime\Documents\GraduationAtMSU-AlyssaWaterson\envs
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pytest
+  - pip
+  - pylint
+  - pdoc3
+  - numpy
+  - scipy
+  - matplotlib
+prefix: C:\Users\anime\Documents\GraduationAtMSU-AlyssaWaterson\envs
